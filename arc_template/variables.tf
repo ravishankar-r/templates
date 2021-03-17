@@ -26,18 +26,6 @@ variable "azure_resource_group" {
   default = "Arc-AWS-Demo"
 }
 
-variable "subscription_id" {
-}
-
-variable "client_id" {
-}
-
-variable "client_secret" {
-}
-
-variable "tenant_id" {
-}
-
 variable "access_key" {
 }
 

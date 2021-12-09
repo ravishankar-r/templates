@@ -1,4 +1,4 @@
 variable "instance_type" {
-  type        = "string"
+  type        = string
   description = "The Instance type for the server."
 }
